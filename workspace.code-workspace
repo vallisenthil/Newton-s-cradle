@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\WHJR"
+		},
+		{
+			"path": "..\\Rohith"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Valli"
+	}
+}
